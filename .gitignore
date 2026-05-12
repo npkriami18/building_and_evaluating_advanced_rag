@@ -1,0 +1,149 @@
+# =========================
+# OS GENERATED FILES
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# LOG FILES
+# =========================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# ENVIRONMENT VARIABLES
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# EDITOR / IDE
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# Vim
+*.swp
+*.swo
+
+# =========================
+# DEPENDENCIES
+# =========================
+node_modules/
+vendor/
+
+# =========================
+# BUILD OUTPUTS
+# =========================
+dist/
+build/
+out/
+target/
+coverage/
+.cache/
+.tmp/
+temp/
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Python build artifacts
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+.tox/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+# NODE.JS / JAVASCRIPT
+# =========================
+.next/
+.nuxt/
+.svelte-kit/
+.parcel-cache/
+
+# Package managers
+.pnpm-store/
+.yarn/
+.npm/
+
+# TypeScript
+*.tsbuildinfo
+
+# =========================
+# JAVA / KOTLIN / GRADLE
+# =========================
+.gradle/
+*.class
+
+# =========================
+# C / C++ / RUST / GO
+# =========================
+bin/
+obj/
+*.o
+*.a
+*.so
+
+# Rust
+target/
+Cargo.lock
+
+# Go
+*.test
+
+# =========================
+# DOCKER
+# =========================
+docker-compose.override.yml
+
+# =========================
+# DATABASE FILES
+# =========================
+*.sqlite
+*.db
+
+# =========================
+# TEST / COVERAGE
+# =========================
+coverage/
+htmlcov/
+
+# =========================
+# SECRETS / KEYS
+# =========================
+*.pem
+*.key
+*.crt
+secrets/
+
+# =========================
+# MISC
+# =========================
+*.bak
+*.tmp
+*.temp
